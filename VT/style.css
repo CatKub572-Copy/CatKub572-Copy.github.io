@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #202020; /* พื้นหลังสีดำ */
+    height: 100vh;
+}
+
+.container {
+    position: relative;
+    width: 500px;
+    height: 500px;
+}
+
+#pngtuber {
+    width: 100%;
+    height: auto;
+    display: block;
+}
